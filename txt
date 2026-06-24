@@ -1,0 +1,37 @@
+ID e Clase
+id: Funciona como uma identidade única para um elemento específico na página (como um CPF), sendo muito usado
+ para criar links de ancoragem ou para manipulá-lo via JavaScript.
+
+class: Funciona como uma categoria ou grupo, permitindo reunir vários elementos diferentes para que todos 
+compartilhem o mesmo estilo visual através do CSS.
+
+title: Adiciona uma informação extra ao elemento, exibindo um pequeno balão de texto explicativo (dica) 
+quando o usuário passa o mouse por cima dele.
+de acessibilidade usem a pronúncia correta e para que os motores de busca compreendam a língua do texto.
+
+lang: Especifica o idioma do conteúdo daquele trecho, o que é essencial para que leitores de tela 
+
+b= deixa o texto em negrito e o strong (geralmente é mais utilizado)
+
+em= deixa o texto italico
+
+HTML: É a linguagem de marcação que define a estrutura e o esqueleto do site, organizando todo o conteúdo
+ da página — como textos, títulos, imagens, links e botões — por meio do uso de tags.
+
+CSS: É a linguagem de estilo responsável por toda a estética e design, aplicando cores, fontes, espaçamentos,
+ alinhamentos e animações à estrutura criada pelo HTML, além de garantir que o site se adapte visualmente
+  a computadores e celulares.
+
+<header>: Define o cabeçalho de uma página ou seção, geralmente contendo logos e títulos.
+
+<nav>: Agrupa os links de navegação principal do site.
+
+<main>: Envolve o conteúdo principal e exclusivo de uma página.
+
+<section>: Agrupa conteúdos que têm um mesmo tema ou assunto geral.
+
+<article>: Representa um conteúdo independente e completo por si só (como um post ou notícia).
+
+<footer>: Define o rodapé com informações de direitos autorais, contatos ou links secundários.
+
+atributo src
